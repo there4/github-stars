@@ -1,2 +1,3 @@
-# github-stars
-Microservice to run @php_stars twitter account
+GitHub Stars
+================================================================================
+> Running the @php_stars twitter account
